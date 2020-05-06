@@ -1,7 +1,7 @@
 public class BonjourPersonnalise {
-    public static void main(final String[] args) {
-        final String person = "Rodolphe";
+    public static void main(final String[] args, person) {
+        final String BonjourPers = "Bnojour";
 
-        System.out.println(person);
+        System.out.println(BonjourPers + person);
     }
 }
